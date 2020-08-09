@@ -26,7 +26,8 @@ highlighter: rouge #selecting the highlighter, default is rouge
 
 header_pages:
   - index.md
-  - read-me.md
   - about.md
+  - read-me.md
+  
 # controls how big the shell and font looks
 font-size: small # options: [small] or [large]
