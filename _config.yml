@@ -3,13 +3,13 @@
 # just copy+paste it and modify some of the content to begin with.
 
 title: The Logic Bomb
-email: email@domain.xyz
+email: sadistic.pentester@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A paragraph describing your webpage.
 baseurl: "/lb" # the subpath of your site
-url: "" # the base hostname & protocol for your site
-twitter_username: tareqdandachi
-github_username:  tareqdandachi
+url: "https://sadistic.github.io" # the base hostname & protocol for your site
+twitter_username: sadistic
+github_username:  sadistic
 
 # Required plugins for the theme to work properly
 plugins:
