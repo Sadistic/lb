@@ -1,9 +1,5 @@
 <img src="assets/theme_logo.svg" class="detail_header">
 
-
-{{ post.url }}">{{ post.title }}
-
-
 # jekyll-shell-theme
 
 **Jekyll Shell Theme** is a light-weight customizable one-column jekyll theme that gives off:
