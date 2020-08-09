@@ -6,7 +6,7 @@ title: About
 ---
 
 ```diff
-# +sadistic@github.io~$ Name: Sadistic
++sadistic@github.io~$ Name: Sadistic
 ```
 # sadistic@github.io~$ Age: 39
 # sadistic@github.io~$ Timezone: Central Time 
