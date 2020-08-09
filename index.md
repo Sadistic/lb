@@ -4,7 +4,7 @@ permalink: /
 permalink_name: /home
 title: Home Page
 
-detail_image: assets/git-logo.png
+detail_image: assets/git-logo-2.png
 
 ---
 
