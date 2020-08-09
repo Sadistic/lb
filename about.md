@@ -5,7 +5,9 @@ permalink_name: /about
 title: About
 ---
 
-# sadistic@github.io~$ Name: Sadistic
+```diff
+# +sadistic@github.io~$ Name: Sadistic
+```
 # sadistic@github.io~$ Age: 39
 # sadistic@github.io~$ Timezone: Central Time 
 # sadistic@github.io~$ Location: Texas
