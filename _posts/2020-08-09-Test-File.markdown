@@ -4,6 +4,8 @@ published: true
 layout: post
 title:  "Test Post"
 date:   2020-08-09 06:22:02 -0400
+categories: jekyll update
+---
 
 ## A New Post
 
