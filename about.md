@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /
+permalink: /about
 permalink_name: /about
 title: About
 ---
