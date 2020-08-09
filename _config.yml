@@ -8,7 +8,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   A paragraph describing your webpage.
 baseurl: "/lb" # the subpath of your site
 url: "https://sadistic.github.io" # the base hostname & protocol for your site
-twitter_username: sadistic
+#twitter_username: sadistic
 github_username:  sadistic
 
 # Required plugins for the theme to work properly
