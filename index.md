@@ -2,7 +2,7 @@
 layout: home
 permalink: /home
 permalink_name: /home
-title: jekyll-shell-theme
+title: The Logic Bomb
 
 detail_image: assets/theme_logo.svg
 
