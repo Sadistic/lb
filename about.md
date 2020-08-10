@@ -37,8 +37,8 @@ title: About
 |----------------------+------------------------------------------------+---------------------------+---+---+---+---+---+---|
 |       ABOUT ME       |		                                        |                           |   |   |   |   |   |   |
 |----------------------+------------------------------------------------+---------------------------+---+---+---+---+---+---|
-| I am a computer tech/network security administrator who enjoys helping others.                                            |
-| I am a very giving person, but can also be very evil and very blunt.                                                      |
+| I am a computer tech/network security administrator who enjoys helping others.I am a very giving person,                  | 
+| but can also be very evil and very blunt.                                                                                 |
 |                                                                                                                           |
 | I am studying computer science at college I am also working on getting my OSCP certification in                           |
 | ethical hacking offered by Offensive Security that teaches penetration testing methodologies                              |
