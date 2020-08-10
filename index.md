@@ -22,4 +22,4 @@ Aside from this being a place to get info about pentesting this is also a place 
 * Emojis
 * and any other branding you would like
 
-** View [/read-me](read-me) to get more info **
+**View [/read-me](read-me) to get more info**
