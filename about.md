@@ -13,9 +13,17 @@ sadistic@github.io~$ Location: Texas
 
 sadistic@github.io~$ Hobbies: Video Games, Board Games, Reading adventure and science-fiction novels, Watching movies and TV shows, Building PCs from collected components, Programming, CTF Pentesting.
 
-|----------+-------------+-------------|
-| Hobbies: | Video Games | Board Games |
-|----------|:------------|------------:|
+|----------+-------------+-----------------|
+| Hobbies: | Video Games | Board Games     |
+|----------|:------------|----------------:|
+| 1        | 2           | 3               |
+| 4        | 5           | 6               |
+|----------+-------------+-----------------|
+| 8        | 95          | 106             |
+| 894      | 345         | 866             |
+|==========+=============+=================|
+| Foot1    | Foot2       | Foot3           |
+|----------+-------------+-----------------|
 
 sadistic@github.io~$ Relationship Status:  Married
 
