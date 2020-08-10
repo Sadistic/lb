@@ -36,7 +36,7 @@ title: About
 
 
 |----------------------+------------------------------------------------+---------------------------+---+---+---+---+---+---|
-|                      |		ABOUT ME                                |                           |   |   |   |   |   |   |
+|       ABOUT ME       |		                                        |                           |   |   |   |   |   |   |
 |----------------------+------------------------------------------------+---------------------------+---+---+---+---+---+---|
 | I am a computer tech/network security administrator who enjoys helping others. I am a very giving person, but can also be |
 | very evil and very blunt. I am studying computer science at college I am now working on getting my OSCP certification in  |
