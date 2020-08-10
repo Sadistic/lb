@@ -16,13 +16,13 @@ sadistic@github.io~$ Hobbies: Video Games, Board Games, Reading adventure and sc
 |----------+-------------+-----------------|
 | Hobbies: | Video Games | Board Games     |
 |----------|:------------|----------------:|
-| 1        | 2           | 3               |
-| 4        | 5           | 6               |
+|          |             |                 |
+|          |             |                 |
 |----------+-------------+-----------------|
-| 8        | 95          | 106             |
-| 894      | 345         | 866             |
+|          |             |                 |
+|          |             |                 |
 |==========+=============+=================|
-| Foot1    | Foot2       | Foot3           |
+|          |             |                 |
 |----------+-------------+-----------------|
 
 sadistic@github.io~$ Relationship Status:  Married
