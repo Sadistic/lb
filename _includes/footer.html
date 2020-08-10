@@ -2,7 +2,7 @@
 
   {{ site.title }}/{{ page.permalink_name | replace: "/", "" | replace: " ", "-" }}
   <br><br>
-  {% if site.tryhackme_username and site.tryhackme_username != "" %} :octocat: <a href="https://tryhackme.com/p/{{site.tryhackeme_username}}">@{{ site.tryhackme_username }}</a> {% endif %}
+  {% if site.tryhackme_username and site.tryhackme_username != "" %} :octocat: <a href="https://tryhackme.com/p/{{site.tryhackme_username}}">@{{ site.tryhackme_username }}</a> {% endif %}
   {% if site.twitter_username and site.twitter_username != "" %} :octocat: <a href="https://twitter.com/{{site.twitter_username}}">@{{ site.twitter_username }}</a> {% endif %}
 
 </footer>
