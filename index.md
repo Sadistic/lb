@@ -7,8 +7,8 @@ title: Home Page
 detail_image: assets/git-logo-2.png
 
 ---
-Discord Server
 [![Discord Invite](assets/Discord-Bnt-3.png)](https://discord.gg/bJMRK96)
+   Invite
 
 # Welcome
 
