@@ -8,7 +8,7 @@ detail_image: assets/git-logo-2.png
 
 ---
 Discord Server
-![assets/Discord-Bnt-3.png][https://discord.gg/bJMRK96](Discord Server)
+![Discord Invite](assets/Discord-Bnt-3.png)](https://discord.gg/bJMRK96)
 
 # Welcome
 
