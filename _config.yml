@@ -1,7 +1,3 @@
-# This is an example of what an '_config.yml' file should look like
-# when using jekyll-shell-theme. You should use this as a guide or
-# just copy+paste it and modify some of the content to begin with.
-
 title: The Logic Bomb
 email: sadistic.pentester@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
