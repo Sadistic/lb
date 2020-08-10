@@ -22,17 +22,7 @@ title: About
 |----------------------|:----------------------------------------------:|---------------------------|---|---|---|---|---|---|
 | Relationship Status: | Married                                        |                           |   |   |   |   |   |   |
 |----------------------|:----------------------------------------------:|---------------------------|---|---|---|---|---|---|
-| About Me:            | I am a computer tech who enjoys helping others.|                           |   |   |   |   |   |   |   
-|                      | I am a very giving person, but can also be very|                           |   |   |   |   |   |   |   
-|                      | evil and very blunt. I am studying computer    |                           |   |   |   |   |   |   |
-|                      | science                                        |                           |   |   |   |   |   |   |
-|                      | at college I am now working on getting my OSCP |                           |   |   |   |   |   |   |
-|                      | certification in ethical hacking offered by    |                           |   |   |   |   |   |   |
-|                      | OffensiveSecurity that teaches penetration     |                           |   |   |   |   |   |   |
-|                      | testing methodologiesSecurity that teaches     |                           |   |   |   |   |   |   |
-|                      | penetration testing methodologies and the use  |                           |   |   |   |   |   |   |
-|                      | of the tools included with the Kali Linux.     |                           |   |   |   |   |   |   |
-|                      |                                                |                           |   |   |   |   |   |   |
+| About Me:            |                                                |                           |   |   |   |   |   |   |   
 |======================+================================================+===========================+===+===+===+===+===+===|
 |                      |                                                |                           |   |   |   |   |   |   |
 |----------------------+------------------------------------------------+---------------------------+---+---+---+---+---+---|
