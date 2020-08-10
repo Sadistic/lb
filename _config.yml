@@ -1,7 +1,6 @@
 title: The Logic Bomb
 email: sadistic.pentester@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-This page will be a completely khaotic list of tools, articles, and resources I use regularly in Pentesting and CTF situations. My goal is to build this list as often as possible with examples, articles, and useful tips. It will serve as a reference for when I forget things and hopefully will help others to discover tools that they haven’t used.
+description: >- # This page will be a completely khaotic list of tools, articles, and resources I use regularly in Pentesting and CTF situations. My goal is to build this list as often as possible with examples, articles, and useful tips. It will serve as a reference for when I forget things and hopefully will help others to discover tools that they haven’t used.
 baseurl: "/lb" # the subpath of your site
 url: "https://sadistic.github.io" # the base hostname & protocol for your site
 #twitter_username: sadistic
