@@ -21,3 +21,5 @@ Aside from this being a place to get info about pentesting this is also a place 
 * Server Buttons
 * emojis
 * and any other branding you would like
+
+View [/read-me](read-me) to get more info
