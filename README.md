@@ -1,4 +1,4 @@
-<img src="assets/theme_logo.svg" class="detail_header">
+<img src="assets/git-logo-2.png" class="detail_header">
 
 ## Comming Soon
 
