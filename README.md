@@ -3,7 +3,7 @@
 # GFX Price's
 
 {:refdef: style="text-align: center;"}
-[![My Image]({{ site.baseimg }}assets/Price-List.gif)
+![My Image]({{ site.baseimg }}assets/Price-List.gif)
 {: refdef}
 
 
