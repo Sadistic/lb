@@ -24,7 +24,7 @@ header_pages:
   - index.md
   - blog.md
   - about.md
-  - read-me.md
+  - Price-List.md
   
 # controls how big the shell and font looks
 font-size: small # options: [small] or [large]
