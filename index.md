@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: /
-permalink_name: /home
+permalink_name: /Home
 title: Home Page
 
 detail_image: assets/git-logo-2.png
