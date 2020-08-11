@@ -22,6 +22,7 @@ highlighter: rouge #selecting the highlighter, default is rouge
 
 header_pages:
   - index.md
+  - Tools.md
   - blog.md
   - about.md
   - GFX-Shop.md
