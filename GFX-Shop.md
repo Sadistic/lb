@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /read-me
-permalink_name: /read me
+permalink: /GFX-Shop
+permalink_name: /GFX Shop
 title: GFX-Shop.md
 ---
 
