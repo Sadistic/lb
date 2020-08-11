@@ -24,7 +24,7 @@ header_pages:
   - index.md
   - blog.md
   - about.md
-  - Price-List.md
+  - GFX-Shop.md
   
 # controls how big the shell and font looks
 font-size: small # options: [small] or [large]
