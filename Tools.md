@@ -63,10 +63,10 @@ More info here on the [Enterprise Edition](https://portswigger.net/burp/enterpri
 
 The Metasploit Project is a computer security project that shows the vulnerabilities 
 and aids in Penetration Testing. Penetration Testing is an authorized simulated attack 
-on computer system looking for security weaknesses, and Instruction Detection System (IDS) 
-signature, which on the other hand monitors a network or systems for malicious activities. 
-The other most related sub-project is the Metasploit Framework. Metasploit Framework is 
-open source and it is the most common exploit development framework in the world.
+on computer system looking for security weaknesses, and Instruction Detection System 
+(IDS) signature, which on the other hand monitors a network or systems for malicious 
+activities. The other most related sub-project is the Metasploit Framework. Metasploit 
+Framework is open source and it is the most common exploit development framework in the world.
 
 However, one can utilize it to perform some legitimate and unauthorized accesses and 
 activities on computer systems. In this regard, it is no different from any other similar 
