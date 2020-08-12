@@ -32,4 +32,47 @@ These are just some of the examples - there are many more.
 
 [Read-More](https://www.openwall.com/john/pro/linux/) 
 +============================================+
- 
+
+*Hashcat
+
+Hashcat is a popular and effective password cracker widely used by both penetration 
+testers and sysadmins as well as criminals and spies. Cracking passwords is different 
+from guessing a web login password, which typically only allows a small number of 
+guesses before locking your account. Instead, someone who has gained access to a 
+system with encrypted passwords ("hashes") will often try to crack those hashes 
+to recover those passwords.
+
+[Read-More](https://github.com/hashcat/hashcat) 
++============================================+ 
+
+*Burp Suite (Community Edition)
+
+
+Feature-limited manual tools for researchers and hobbyists
+
+Burp Suite is a multipurpose security tool for bug hunting that has a lot of useful 
+features, for example, the repeater, the intruder and the sequencer. You can use 
+these features when pentesting
+
+More info here on the [Enterprise Edition](https://portswigger.net/burp/enterprise)
+
+[Read-More](https://portswigger.net/burp/communitydownload) 
++============================================+
+
+*Metasploit Project
+
+The Metasploit Project is a computer security project that shows the vulnerabilities 
+and aids in Penetration Testing. Penetration Testing is an authorized simulated attack 
+on computer system looking for security weaknesses, and Instruction Detection System (IDS) 
+signature, which on the other hand monitors a network or systems for malicious activities. 
+The other most related sub-project is the Metasploit Framework. Metasploit Framework is 
+open source and it is the most common exploit development framework in the world.
+
+However, one can utilize it to perform some legitimate and unauthorized accesses and 
+activities on computer systems. In this regard, it is no different from any other similar 
+commercial products such as Immunity’s Canvas or Core Security Technologies. However, 
+Metasploit is commonly used to break into remote systems or test for a computer 
+system vulnerability.
+
+[Read-More](https://www.metasploit.com/) 
++============================================+ 
