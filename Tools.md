@@ -21,7 +21,7 @@ title: Tools.md
 
 John the Ripper is an Open Source password security auditing and password recovery 
 tool available for many operating systems. John the Ripper jumbo supports hundreds 
-of hash and cipher types, including for: user passwords of Unix flavors (Linux, 
+of hash and cipher types, including for user passwords of Unix flavors (Linux, 
 *BSD, Solaris, AIX, QNX, etc.), macOS, Windows, "web apps" (e.g., WordPress), 
 groupware (e.g., Notes/Domino), and database servers (SQL, LDAP, etc.); network 
 traffic captures (Windows network authentication, WiFi WPA-PSK, etc.); encrypted 
