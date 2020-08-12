@@ -70,8 +70,8 @@ Framework is open source and it is the most common exploit development framework
 
 However, one can utilize it to perform some legitimate and unauthorized accesses and 
 activities on computer systems. In this regard, it is no different from any other 
-similar commercial products such as Immunity’s Canvas or Core Security Technologies. However, 
-Metasploit is commonly used to break into remote systems or test for a computer 
+similar commercial products such as Immunity’s Canvas or Core Security Technologies. 
+However, Metasploit is commonly used to break into remote systems or test for a computer 
 system vulnerability.
 
 
