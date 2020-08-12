@@ -11,6 +11,7 @@ tryhackme_username: Sadistic
 plugins:
   - jekyll-remote-theme
   - jemoji
+  - jekyll-youtube
 
 # Including jekyll-shell-theme using the jekyll-remote-theme plugin
 remote_theme: tareqdandachi/jekyll-shell-theme
