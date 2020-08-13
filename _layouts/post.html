@@ -3,8 +3,6 @@ layout: default
 title:  "POSTS"
 ---
 
-{{ site.baseurl }}
-
-<h1>{{ page.post-title }}</h1>
+<a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a>
 
 {{ content }}
