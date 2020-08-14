@@ -8,10 +8,6 @@ author: Sadistic
 
 **How I Hacked GAME ZONE**
 
-**Here is some bold text**
-
-## Here is a secondary heading
-
 *TASK 2:
 
 ![SQL INJECTION]({{ site.baseimg }}Game-Zone/assets/XEYul1e5EY.png)
