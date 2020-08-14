@@ -15,7 +15,7 @@ author: Sadistic
 Ok so on this task we need to open your browser, I am using firefox and that is because you can get [https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-standard/]('FoxyProxy') which will let you change your proxy settings faster
 Now let move on after you get your browser open then you can go to the ip address of the deployed site it will load a site after the site is loaded your going to want to log in with an SQL INJECTION. (see code box below)
 
-~~~~
+~~~
 ' or 1=1-- -
 ~~~
 
