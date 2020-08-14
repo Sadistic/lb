@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How I Hacked GAME ZONE
+title: How-I-Hacked-GAME-ZONE
 author: Sadistic
 ---
 
