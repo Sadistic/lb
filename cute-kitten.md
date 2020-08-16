@@ -10,6 +10,6 @@ title: Leave Now.md
 # Danger
 
 {:refdef: style="text-align: center;"}
-![My Image]({{ site.baseimg }}assets/YSBH.png)
+![My Image]({{site.baseurl}}{{ site.baseimg }}assets/YSBH.png)
 {: refdef}
 
