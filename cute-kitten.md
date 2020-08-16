@@ -10,6 +10,6 @@ title: cute-kitten.md
 # Danger
 
 {:refdef: style="text-align: center;"}
-![My Image]({{site.baseurl}}{{ site.baseimg }}assets/YSBH.png)
+![My Image]({{site.baseurl}}{{ site.baseimg }}images/YSBH.png)
 {: refdef}
 
