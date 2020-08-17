@@ -10,7 +10,7 @@ title: cute-kitten.md
 # Danger
 
 {:refdef: style="text-align: center;"}
-[![YSBH]({{site.baseurl}}{{ site.baseimg }}/images/YSBH.png)
+![YSBH]({{site.baseurl}}{{ site.baseimg }}/images/YSBH.png)
 ![](https://curiouscat.club/image.php?ref=OLPHQW.png)
 {: refdef}
 
