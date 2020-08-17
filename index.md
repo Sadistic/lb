@@ -26,6 +26,6 @@ Aside from this being a place to get info about pentesting this is also a place 
 
 **View [/GFX-Shop](GFX-Shop) to get more info**
 
-{:refdef: style="text-align: right;"}
+{:pi: style="text-align: right;"}
 [![pi]({{site.baseurl}}{{ site.baseimg }}/assets/pi.png)](https://sadistic.github.io/lb/super-secret-page)
-{: refdef}
+{: pi}
