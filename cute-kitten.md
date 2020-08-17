@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /cute-kitten
-permalink_name: /cute-kitten
-title: cute-kitten.md
+permalink: /super-secret-page
+permalink_name: /super-secret-page
+title: super-secret-page.md
 ---
 
 <img src="assets/git-logo-2.png" class="detail_header">
