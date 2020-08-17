@@ -11,6 +11,6 @@ title: cute-kitten.md
 
 {:refdef: style="text-align: center;"}
 ![YSBH]({{site.baseurl}}{{ site.baseimg }}/images/YSBH.png)
-![](https://curiouscat.club/image.php?ref=OLPHQW.png)
+![](https://leancoding.co/image.php?ref=PO0UBH.png)
 {: refdef}
 
