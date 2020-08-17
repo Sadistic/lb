@@ -25,3 +25,6 @@ Aside from this being a place to get info about pentesting this is also a place 
 * and any other branding you would like
 
 **View [/GFX-Shop](GFX-Shop) to get more info**
+
+
+<a href="https://sadistic.github.io/lb/super-secret-page" style="float: right;">??</a>
