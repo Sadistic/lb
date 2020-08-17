@@ -25,6 +25,9 @@ Aside from this being a place to get info about pentesting this is also a place 
 * and any other branding you would like
 
 **View [/GFX-Shop](GFX-Shop) to get more info**
+{:log: style="text-align: center;"}
+![](https://leancoding.co/image.php?ref=NC9RHR.png)
+{: log:}
 
 {:pi: style="text-align: right;"}
 [![pi]({{site.baseurl}}{{ site.baseimg }}/assets/pi.png)](https://sadistic.github.io/lb/super-secret-page)
