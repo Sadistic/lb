@@ -6,3 +6,8 @@ title: BLOG
 ---
 
 {% include_relative post.md %}
+
+===========================================================
+
+
+{% include_relative news.md %}
