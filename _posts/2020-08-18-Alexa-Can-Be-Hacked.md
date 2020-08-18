@@ -1,6 +1,6 @@
 ---
 layout: news
-title: Linux-Malware-Found-By-NSA-&-FBI,-etc..-(News)
+title: Linux-Malware-Found-(News)
 author: Sadistic
 ---
 
