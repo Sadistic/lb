@@ -1,7 +1,7 @@
 ---
 layout: post
 
-Title: /Nwes/-title: Alexa Can Be Hacked, Instagram Retains Deleted Data, Linux Malware Found By NSA & FBI-/News/
+Title: [News]-Alexa Can Be Hacked, Instagram Retains Deleted Data, Linux Malware Found By NSA & FBI-[News]
 
 author: Sadistic
 ---
