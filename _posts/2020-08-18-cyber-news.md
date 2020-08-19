@@ -8,11 +8,11 @@ author: Sadistic
 
 #Alexa Can Be Hacked
 
-Vulnerabilities in Amazonís Alexa virtual assistant platform could allow attackers to access usersí personal information, like home addresses ñ simply by persuading them to click on a malicious link.
+Vulnerabilities in Amazon‚Äôs Alexa virtual assistant platform could allow attackers to access users‚Äô personal information, like home addresses ‚Äì simply by persuading them to click on a malicious link.
 
 Researchers with Check Point found several web application flaws on Amazon Alexa subdomains, including a cross-site scripting (XSS) flaw and cross-origin resource sharing (CORS) misconfiguration. An attacker could remotely exploit these vulnerabilities by sending a victim a specially crafted Amazon link.
 
-ìWe conducted this research to highlight how securing these devices is critical to maintaining usersí privacy,î said Oded Vanunu, head of products vulnerabilities research at Check Point, in research published Thursday. ìAlexa has concerned us for a while now, given its ubiquity and connection to IoT devices. Itís these mega digital platforms that can hurt us the most. Therefore, their security levels are of crucial importance.î
+‚ÄúWe conducted this research to highlight how securing these devices is critical to maintaining users‚Äô privacy,‚Äù said Oded Vanunu, head of products vulnerabilities research at Check Point, in research published Thursday. ‚ÄúAlexa has concerned us for a while now, given its ubiquity and connection to IoT devices. It‚Äôs these mega digital platforms that can hurt us the most. Therefore, their security levels are of crucial importance.‚Äù
 
 [Read-More](https://threatpost.com/amazon-alexa-one-click-attack-can-divulge-personal-data/158297/)
 
@@ -21,7 +21,7 @@ Researchers with Check Point found several web application flaws on Amazon Alexa
 
 nstagram kept copies of deleted pictures and private direct messages on its servers even after someone removed them from their account. The Facebook-owned service acknowledged the slipup and awarded a security researcher $6,000 for finding the bug.
 
-Researcher [Saugat Pokharel](https://medium.com/@saugatpokharel) discovered the vulnerability when he downloaded his data last year from the photo-sharing app, according to a report on TechCrunch. The data included photos and private messages that heíd previously deleted, alerting him to a problem, he said.
+Researcher [Saugat Pokharel](https://medium.com/@saugatpokharel) discovered the vulnerability when he downloaded his data last year from the photo-sharing app, according to a report on TechCrunch. The data included photos and private messages that he‚Äôd previously deleted, alerting him to a problem, he said.
 
 [Read-More](https://threatpost.com/instagram-retained-deleted-user-data-despite-gdpr-rules/158366/)
 
@@ -30,6 +30,6 @@ Researcher [Saugat Pokharel](https://medium.com/@saugatpokharel) discovered the 
 
 The U.S. government is warning of new malware, dubbed Drovorub, that targets Linux systems. It also claims the malware was developed for a Russian military unit in order to carry out cyber-espionage operations.
 
-The malware, Drovorub, comes with a multitude of espionage capabilities, including stealing files and remotely controlling victimsí computers. The malware is sophisticated and is designed for stealth, leveraging advanced ìrootkitî technologies that make detection difficult. According to a Thursday advisory by the National Security Agency (NSA) and the Federal Bureau of Investigation (FBI), the malware especially represents a threat to national security systems such as the Department of Defense and Defense Industrial Base customers that use Linux systems.
+The malware, Drovorub, comes with a multitude of espionage capabilities, including stealing files and remotely controlling victims‚Äô computers. The malware is sophisticated and is designed for stealth, leveraging advanced ‚Äúrootkit‚Äù technologies that make detection difficult. According to a Thursday advisory by the National Security Agency (NSA) and the Federal Bureau of Investigation (FBI), the malware especially represents a threat to national security systems such as the Department of Defense and Defense Industrial Base customers that use Linux systems.
 
 [Read-More](https://threatpost.com/nsa-fbi-warn-of-linux-malware-used-in-espionage-attacks/158351/)
