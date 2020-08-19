@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cyber (News)
+[Nwes]-title: Alexa Can Be Hacked, Instagram Retains Deleted Data, Linux Malware Found By NSA & FBI-[News]
 author: Sadistic
 ---
 
