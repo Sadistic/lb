@@ -8,5 +8,5 @@ author: Sadistic
 
 **Kenobi Hack**
 
-<iframe width="800" height="720" src="https://sadistic.github.io/lb/vids/Kenobi/Kenobi_player.html" scrolling="no" frameborder="0" allowfullscreen></iframe>
+<iframe width="790" height="720" src="https://sadistic.github.io/lb/vids/Kenobi/Kenobi_player.html" scrolling="no" frameborder="0" allowfullscreen></iframe>
 
