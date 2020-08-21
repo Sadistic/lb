@@ -13,5 +13,5 @@ author: Sadistic
 https://watch.wave.video/kenobi-hack-5f3fe8e946e0fb000cff11ff
 
 {:kenobi-video: style="text-align: center;"}
-![GZ-Banner](https://watch.wave.video/kenobi-hack-5f3fe8e946e0fb000cff11ff)
+![Kenobi](https://watch.wave.video/kenobi-hack-5f3fe8e946e0fb000cff11ff)
 {: kenobi-video}
