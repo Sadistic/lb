@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kenobi-Hack-(video)
+title: Kenobi-Hack-()
 author: Sadistic
 ---
 
@@ -8,8 +8,4 @@ author: Sadistic
 
 **Kenobi Hack**
 
-<div style="padding: 59.02% 0 0 0; position: relative"><div style="height:100%;left:0;position:absolute;top:0;width:100%"><iframe height="100%" width="100%;" src="https://embed.wave.video/5f3fe8e946e0fb000cff11ff" frameborder="0" allow="autoplay; fullscreen"></iframe></div></div>
-
-{:kenobi-video: style="text-align: center;"}
-[FullScreen](https://watch.wave.video/kenobi-hack-5f3fe8e946e0fb000cff11ff)
-{: kenobi-video}
+<iframe width="420" height="315" src="https://sadistic.github.io/lb/vids/Kenobi/Kenobi.html" frameborder="0" allowfullscreen></iframe>
