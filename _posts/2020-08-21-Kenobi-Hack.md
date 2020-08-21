@@ -8,5 +8,5 @@ author: Sadistic
 
 **Kenobi Hack**
 
-<iframe width="480" height="360" src="blob:https://youfiles.herokuapp.com/a65fceb4-8b32-4709-920f-f6909c9304bf" frameborder="0"> </iframe>
+<iframe src="https://embed.wave.video/5f3fe8e946e0fb000cff11ff" height="331" width="560" frameborder="0" allow="autoplay; fullscreen"></iframe>
 
