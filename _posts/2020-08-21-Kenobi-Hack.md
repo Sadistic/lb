@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kenobi-Hack-()
+title: Kenobi-Hack-(video)
 author: Sadistic
 ---
 
