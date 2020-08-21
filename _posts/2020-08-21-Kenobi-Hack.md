@@ -8,6 +8,18 @@ author: Sadistic
 
 **Kenobi Hack**
 
+<style>
+html, body {
+	margin: 0px;
+	padding: 0px;
+	font-family:Verdana, Geneva, sans-serif;
+	background-color: #1a1a1a;
+	text-align: center;
+	width: 100%;
+    height: 100%; 
+}
+
+</style>
 
 <link href="{{site.baseurl}}{{ site.baseimg }}/assets/vids/Kenobi/Kenobi_embed.css" rel="stylesheet" type="text/css">
 </head>
@@ -16,4 +28,4 @@ author: Sadistic
 
 </body>
 </html>
-<iframe width="560" height="331" src="{{site.baseurl}}{{ site.baseimg }}/assets/vids/Kenobi/Kenobi_player.html" scrolling="no" frameborder="0" allowfullscreen></iframe>
+
