@@ -45,7 +45,7 @@ to recover those passwords.
 [Read-More](https://github.com/hashcat/hashcat) 
 +============================================+ 
 
-[Burp Suite]({{site.baseurl}}{{ site.baseimg }}/assets/Burp-Logo.png)
+[Burp]({{site.baseurl}}{{ site.baseimg }}/assets/Burp-Logo.png)
 
 
 Feature-limited manual tools for researchers and hobbyists
