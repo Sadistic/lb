@@ -6,7 +6,7 @@ title: Tools.md
 ---
 
 
- ![Login-Page]({{site.baseurl}}{{ site.baseimg }}/assets/E4L-Logo.png)
+![Enum4linux]({{site.baseurl}}{{ site.baseimg }}/assets/E4L-Logo.png)
 
 Enum4linux is a tool for enumerating information from Windows and Samba systems.
 very useful during CTF if you're facing a Windows machine, it can help you find
@@ -33,7 +33,7 @@ These are just some of the examples - there are many more.
 [Read-More](https://www.openwall.com/john/pro/linux/) 
 +============================================+
 
-*Hashcat
+![Hashcat]({{site.baseurl}}{{ site.baseimg }}/assets/hashcat-logo.png)
 
 Hashcat is a popular and effective password cracker widely used by both penetration 
 testers and sysadmins as well as criminals and spies. Cracking passwords is different 
@@ -45,7 +45,7 @@ to recover those passwords.
 [Read-More](https://github.com/hashcat/hashcat) 
 +============================================+ 
 
-*Burp Suite (Community Edition)
+[Burp Suite]({{site.baseurl}}{{ site.baseimg }}/assets/Burp-Logo.png)
 
 
 Feature-limited manual tools for researchers and hobbyists
@@ -59,7 +59,7 @@ More info here on the [Enterprise Edition](https://portswigger.net/burp/enterpri
 [Read-More](https://portswigger.net/burp/communitydownload) 
 +============================================+
 
-*Metasploit Project
+[Metasploit]({{site.baseurl}}{{ site.baseimg }}/assets/Metasploit-Logo.png)
 
 The Metasploit Project is a computer security project that shows the vulnerabilities 
 and aids in Penetration Testing. Penetration Testing is an authorized simulated attack 
