@@ -17,7 +17,8 @@ It does come preinstalled with most Security Distros.
 +============================================+
 
 
-*John The Ripper
+
+![John The Ripper]({{site.baseurl}}{{ site.baseimg }}/assets/JTR-Logo.png)
 
 John the Ripper is an Open Source password security auditing and password recovery 
 tool available for many operating systems. John the Ripper jumbo supports hundreds 
