@@ -8,12 +8,12 @@ title: Tools.md
 
  ![Login-Page]({{site.baseurl}}{{ site.baseimg }}/assets/E4L-Logo.png)
 
- Enum4linux is a tool for enumerating information from Windows and Samba systems.
- Very useful during CTF if you're facing a Windows machine, it can help you find
- the initial foothold.
+Enum4linux is a tool for enumerating information from Windows and Samba systems.
+very useful during CTF if you're facing a Windows machine, it can help you find
+the initial foothold.
 
- It does come preinstalled with most Security Distros.
- [Read-More](https://labs.portcullis.co.uk/tools/enum4linux/) 
+It does come preinstalled with most Security Distros.
+[Read-More](https://labs.portcullis.co.uk/tools/enum4linux/) 
 +============================================+
 
 
