@@ -8,6 +8,6 @@ author: Sadistic
 
 **Kenobi Hack**
 
-{:kenobi: style="text-align: left;"}
+{:kenobi: style="text-align: center;"}
 <iframe width="900" height="720" src="https://sadistic.github.io/lb/vids/Kenobi/Kenobi_player.html" scrolling="no" frameborder="0" allowfullscreen></iframe>
 {: kenobi}
