@@ -45,7 +45,7 @@ to recover those passwords.
 [Read-More](https://github.com/hashcat/hashcat) 
 +============================================+ 
 
-[Burp]({{site.baseurl}}{{ site.baseimg }}/assets/Burp-Logo.png)
+![Burp]({{site.baseurl}}{{ site.baseimg }}/assets/Burp-Logo.png)
 
 
 Feature-limited manual tools for researchers and hobbyists
@@ -59,7 +59,7 @@ More info here on the [Enterprise Edition](https://portswigger.net/burp/enterpri
 [Read-More](https://portswigger.net/burp/communitydownload) 
 +============================================+
 
-[Metasploit]({{site.baseurl}}{{ site.baseimg }}/assets/Metasploit-Logo.png)
+![Metasploit]({{site.baseurl}}{{ site.baseimg }}/assets/Metasploit-Logo.png)
 
 The Metasploit Project is a computer security project that shows the vulnerabilities 
 and aids in Penetration Testing. Penetration Testing is an authorized simulated attack 
