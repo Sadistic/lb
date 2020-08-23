@@ -32,3 +32,5 @@ Aside from this being a place to get info about pentesting this is also a place 
 {:pi: style="text-align: right;"}
 [![pi]({{site.baseurl}}{{ site.baseimg }}/assets/pi.png)](https://sadistic.github.io/lb/super-secret-page)
 {: pi}
+
+<iframe src="https://logicbomb.ishoutbox.com" width="300" height="375" frameborder="0" valign="middle" allowtransparency="true"></iframe>
