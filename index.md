@@ -12,9 +12,6 @@ detail_image: assets/git-logo-2.png
 {: discord}
 # Welcome 
 
-{:shoutbox: style="text-align: right;"}
-{% include sidebar.html %}
-{: shoutbox}
 
 This page will be a completely khaotic list of tools, articles, and resources I use regularly in Pentesting and CTF situations. My goal is to build this list as often as possible with examples, articles, and useful tips. It will serve as a reference for when I forget things and hopefully will help others to discover tools that they haven't used.
 
