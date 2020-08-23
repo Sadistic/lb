@@ -34,5 +34,5 @@ Aside from this being a place to get info about pentesting this is also a place 
 {: pi}
 
 {:shoutbox: style="text-align: right;"}
-<iframe src="https://logicbomb.ishoutbox.com" width="275" height="570" frameborder="0" valign="middle" allowtransparency="true"></iframe>
+<iframe src="https://logicbomb.ishoutbox.com" width="275" height="570" frameborder="0" allowtransparency="true"></iframe>
 {: shoutbox}
