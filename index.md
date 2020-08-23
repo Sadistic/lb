@@ -10,6 +10,11 @@ detail_image: assets/git-logo-2.png
 {:discord: style="text-align: center;"}
 [![Discord Invite](assets/Discord-Bnt-3.png)](https://discord.gg/bJMRK96)
 {: discord}
+
+{:chat: style="text-align: center;"}
+{% include discord.html %}
+{: chat}
+
 # Welcome 
 
 
@@ -33,5 +38,3 @@ Aside from this being a place to get info about pentesting this is also a place 
 {:pi: style="text-align: right;"}
 [![pi]({{site.baseurl}}{{ site.baseimg }}/assets/pi.png)](https://sadistic.github.io/lb/super-secret-page)
 {: pi}
-
-{% include discord.html %}
