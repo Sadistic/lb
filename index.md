@@ -33,4 +33,4 @@ Aside from this being a place to get info about pentesting this is also a place 
 [![pi]({{site.baseurl}}{{ site.baseimg }}/assets/pi.png)](https://sadistic.github.io/lb/super-secret-page)
 {: pi}
 
-{% include sidebar-right.html %}
+{% include sidebar.html %}
