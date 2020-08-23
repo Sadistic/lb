@@ -10,7 +10,7 @@ detail_image: assets/git-logo-2.png
 {:discord: style="text-align: center;"}
 [![Discord Invite](assets/Discord-Bnt-3.png)](https://discord.gg/bJMRK96)
 {: discord}
-# Welcome
+# Welcome {% include sidebar.html %}
 
 This page will be a completely khaotic list of tools, articles, and resources I use regularly in Pentesting and CTF situations. My goal is to build this list as often as possible with examples, articles, and useful tips. It will serve as a reference for when I forget things and hopefully will help others to discover tools that they haven't used.
 
@@ -33,4 +33,3 @@ Aside from this being a place to get info about pentesting this is also a place 
 [![pi]({{site.baseurl}}{{ site.baseimg }}/assets/pi.png)](https://sadistic.github.io/lb/super-secret-page)
 {: pi}
 
-{% include sidebar.html %}
