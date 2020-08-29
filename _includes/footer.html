@@ -11,6 +11,12 @@
 	color: '#000',
     channel: '731287174821183509',
     glyph: ['https://i.vgy.me/W1EH5t.png', '100%']
+	
+  const embed = document.getElementById('embed')
+  
+  embed.on('signIn', data=> {
+  console.log('Guest signed in as ${data.name}')
+  embed.emit('sendMessage', 'Just Visted The Site')
   })
  
   button.notify('Welcome!\n```js\nJoin Us.\n```')
