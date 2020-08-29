@@ -24,8 +24,8 @@
  const embed = document.getElementById('embed')
   
   embed.on('signIn', data=> {
-  console.log(Guest signed in as ${data.name}')
-  embed.emit('sendMessage', 'Welcome to The Logic Bomb')
+  console.log('Guest signed in as ${data.name}')
+  embed.emit('sendMessage', 'Just Visted The Site')
   
   })
   </script>
