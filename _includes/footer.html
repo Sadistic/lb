@@ -11,6 +11,9 @@
 	color: '#000',
     channel: '731287174821183509',
     glyph: ['https://i.vgy.me/W1EH5t.png', '100%']
+	
+   crate.on('signIn', (user) => {
+   console.log(`Guest signed in as ${user.name}`, user)
   })
  
   button.notify('Welcome!\n```js\nJoin Us.\n```')
