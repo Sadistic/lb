@@ -14,11 +14,8 @@
  
   button.notify('Welcome!\n```js\nJoin Us.\n```')
 
-  const embed = document.getElementById('Crate')
-  
-  embed.on('signIn', data=> {
-  console.log('Guest signed in as ${data.name}')
-  embed.emit('sendMessage', 'Just Visted The Site')
+  embed.on('signIn', (user) => {
+  console.log(`Guest signed in as ${user.name}`, user)
  
   })
   
