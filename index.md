@@ -4,7 +4,7 @@ permalink: /
 permalink_name: /Home
 title: Trust Your Technolust !!!
 
-detail_image: assets/git-logo-2.png
+detail_image: assets/Shadow-Army-Banner.png
 
 ---
 
