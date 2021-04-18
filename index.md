@@ -14,7 +14,7 @@ This page will be a completely khaotic list of tools, articles, and resources I 
 
 # UTOPIA DECENTRALIZED P2P ECOSYSTEM
 	
-Utopia is your all-in-one kit for secure instant messaging, encrypted E-mail communication, Anonymous payments and private web browsing. 
+Utopia is your all-in-one kit for secure instant messaging, encrypted E-mail communication, Anonymous payments and private web browsing.
 
 # Discord Logo/Banner Design
 
