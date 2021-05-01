@@ -1,15 +1,15 @@
 ---
 layout: page
-permalink: /Discord
-permalink_name: /Discord
-title: Discord-Chat !!!
+permalink: /IRC-Chat
+permalink_name: /IRC-Chat
+title: IRC-Chat !!!
 
 detail_image: assets/Logo-5.png
 
 ---
 
 {:discord: style="text-align: center;"}
-[![Discord Invite](S-Society IRC Chat)](irc://irc.geekshed.net/S-Society)
+[![S-Society IRC Chat](irc://irc.geekshed.net/S-Society)
 {: discord}
 
 {:chat: style="text-align: center;"}
