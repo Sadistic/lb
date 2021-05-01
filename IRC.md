@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /IRC-Chat
-permalink_name: /IRC-Chat
+permalink: /IRC
+permalink_name: /IRC
 title: IRC-Chat !!!
 
 detail_image: assets/Logo-5.png
