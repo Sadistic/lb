@@ -23,7 +23,7 @@ highlighter: rouge #selecting the highlighter, default is rouge
 
 header_pages:
   - index.md
-  - IRC.md
+  - irc.md
   - Tools.md
   - Blog.md
   - About.md
