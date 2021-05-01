@@ -9,7 +9,7 @@ detail_image: assets/Logo-5.png
 ---
 
 {:discord: style="text-align: center;"}
-[![S-Society IRC Chat](irc://irc.geekshed.net/S-Society)
+<a href="irc://irc.geekshed.net/S-Society">S-Society IRC</a>
 {: discord}
 
 {:chat: style="text-align: center;"}
