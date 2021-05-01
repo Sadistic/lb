@@ -4,14 +4,14 @@ permalink: /Discord
 permalink_name: /Discord
 title: Discord-Chat !!!
 
-detail_image: assets/git-logo-2.png
+detail_image: assets/Logo-5.png
 
 ---
 
 {:discord: style="text-align: center;"}
-[![Discord Invite](assets/Discord-Bnt-3.png)](https://discord.gg/bJMRK96)
+[![Discord Invite](S-Society IRC Chat)](irc://irc.geekshed.net/S-Society)
 {: discord}
 
 {:chat: style="text-align: center;"}
-{% include discord.html %}
+{% include irc.html %}
 {: chat}
