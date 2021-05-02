@@ -15,6 +15,9 @@ S-Society is a new CTF group that I am trying to form I have been involved with 
 so, I am still a beginner looking for like minded people to continue learning as much as we can. if this sounds like
 something you would like to get into then join us on IRC or Discord.
 
+{:discord: style="text-align: center;"}
+<a href="irc://irc.geekshed.net/S-Society">S-Society IRC</a>
+{: discord}
 
 This Is Our World Now... 
 
