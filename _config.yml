@@ -1,4 +1,4 @@
-title: Shadow Army
+title: S-Society
 email: sadistic.pentester@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A Pentesters Blog, This blog will be a completely khaotic list of tools, articles, and resources I use regularly in Pentesting and TryHackMe/Hacking CTF situations.
@@ -23,7 +23,6 @@ highlighter: rouge #selecting the highlighter, default is rouge
 
 header_pages:
   - index.md
-  - IRC.md
   - Tools.md
   - Blog.md
   - About.md
