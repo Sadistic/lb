@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Reported-Issues>
+  <Issues>No Connection</Issues>
+  <Issues>Wifi Password</Issues>
+  <Issues>Wifi Network Name</Issues>
+  <Issues>Modem Offline</Issues>
+  <Issues>Slow Speeds</Issues>
+  <Issues>Outage</Issues>
+  <Issues>Inquiry</Issues>
+  <Issues>DNS ERROR</Issues>
+  <Issues>Failed SIK</Issues>
+  <Issues>Router Issues</Issues>
+  <Issues>PODS Activation</Issues>
+  <Issues>No Dial Tone</Issues>
+  <Issues>Intermittent Connectivity</Issues>
+  <Issues>Fax Machine</Issues>
+  <Issues>Stream Issues</Issues>
+  <Issues>No Picture</Issues>
+  <Issues>UID/Password Reset</Issues>
+  <Issues>All Out</Issues>
+  <Issues>Pro Install</Issues>
+  <Issues>Modem Activation</Issues>
+  <Issues>Transfer Of Service</Issues>
+  <Issues>STB Offline</Issues>
+  <Issues>Bridge Mode</Issues>
+  <Issues>Caller ID-Banner</Issues>
+  <Issues>Signal Ingress</Issues>
+</Reported-Issues>
